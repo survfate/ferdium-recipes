@@ -1106,6 +1106,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "survfate",
+      "name": "survfate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10634948?v=4",
+      "profile": "https://github.com/survfate",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cloudmaker97",
+      "name": "Dennis Heinrich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4189795?v=4",
+      "profile": "https://dennis-heinri.ch",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bradreeve",
+      "name": "bradreeve",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5202911?v=4",
+      "profile": "https://github.com/bradreeve",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitType": "docs"
