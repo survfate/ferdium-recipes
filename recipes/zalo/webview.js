@@ -2,7 +2,7 @@ module.exports = Ferdium => {
   const getMessages = () => {
     let count = 0;
 
-    const unreadRed = document.querySelector('.unread-red');
+    const unreadRed = document.querySelector('[data-translate-title="STR_TAB_MESSAGE"]').querySelector('.unread-red');
     if (unreadRed !== null) {
       switch (unreadRed.classList[1]) {
         case 'fa-num1':
