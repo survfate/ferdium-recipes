@@ -10,7 +10,7 @@ module.exports = Ferdium => {
 
     const unreadBadge = document.querySelector('[data-translate-title="STR_TAB_MESSAGE"]').querySelector('[class*="leftbar-unread-badge"]');
     if (unreadBadge !== null) {
-      unreadBadgeFa = unreadBadge.querySelector('.z-noti-badge__content').classList[1];
+      const unreadBadgeFa = unreadBadge.querySelector('.z-noti-badge__content').classList[1];
       switch (true) {
         case unreadBadgeFa.match('fa-1') !== null: {
           count = 1;
